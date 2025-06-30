@@ -44,6 +44,23 @@ Project link: https://lec-18-dev-detective-github-evm8.vercel.app/
 
 ---
 
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
@@ -89,11 +106,6 @@ Following: 5
 🌙 Dark Mode Support
 Toggle the LIGHT/DARK theme from the top-right corner to suit your preference.
 
-🧑‍💻 Author
-Amarjeet Kumar
-💼 Final Year CSE @ CU’25
-🧠 Passionate about Web Development, DSA, and Open Source
-🔗 My Linktree
 
 📄 License
 This project is licensed under the MIT License.
@@ -104,16 +116,6 @@ GitHub API for data
 UI inspired by modern developer dashboards
 
 Frontend built as part of a learning project
-
-vbnet
-Copy
-Edit
-
-Let me know if you want to auto-generate screenshots or add more dynamic features like contributions graph or pinned repos!
-
-
-
-
 
 
 
